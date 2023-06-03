@@ -8,6 +8,7 @@ setup(
     author_email='your_email@example.com',
     packages=[''],
     install_requires=[
+        'torch',
         'streamlit',
         'transformers',
         'Pillow',
